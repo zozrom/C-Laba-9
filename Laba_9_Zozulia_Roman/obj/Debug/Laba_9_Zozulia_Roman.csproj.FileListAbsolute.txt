@@ -1,0 +1,7 @@
+D:\Програмування\C#\Laba_9_Zozulia_Roman\Laba_9_Zozulia_Roman\bin\Debug\Laba_9_Zozulia_Roman.exe.config
+D:\Програмування\C#\Laba_9_Zozulia_Roman\Laba_9_Zozulia_Roman\bin\Debug\Laba_9_Zozulia_Roman.exe
+D:\Програмування\C#\Laba_9_Zozulia_Roman\Laba_9_Zozulia_Roman\bin\Debug\Laba_9_Zozulia_Roman.pdb
+D:\Програмування\C#\Laba_9_Zozulia_Roman\Laba_9_Zozulia_Roman\obj\Debug\Laba_9_Zozulia_Roman.csprojAssemblyReference.cache
+D:\Програмування\C#\Laba_9_Zozulia_Roman\Laba_9_Zozulia_Roman\obj\Debug\Laba_9_Zozulia_Roman.csproj.CoreCompileInputs.cache
+D:\Програмування\C#\Laba_9_Zozulia_Roman\Laba_9_Zozulia_Roman\obj\Debug\Laba_9_Zozulia_Roman.exe
+D:\Програмування\C#\Laba_9_Zozulia_Roman\Laba_9_Zozulia_Roman\obj\Debug\Laba_9_Zozulia_Roman.pdb
